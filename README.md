@@ -1,4 +1,6 @@
 # Olá! Meu nome é Guilherme ✌️
+### Sou um programador de 23 anos especializado em Game Maker Studio. Além disso, tenho conhecimento em HTML5, CSS3 e JavaScript. Tenho um canal no YouTube onde compartilho dicas e tutoriais sobre a engime GameMaker. Sou apaixonado por RPGs e adoro criar jogos.
+<br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gui_oficial)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-12b4222a4/)
